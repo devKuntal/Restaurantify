@@ -1,2 +1,2 @@
 # Restaurantify
- Restaurent Website
+ Restaurant Website
