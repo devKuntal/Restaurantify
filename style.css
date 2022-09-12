@@ -1,0 +1,56 @@
+/* Importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;400;800&display=swap');
+
+body {
+    font-family: 'Dosis', sans-serif;
+}
+
+.tc-yellow {
+    color: #feca57;
+}
+.tc-red {
+    color: #ff6b6b;
+}
+.btn-primary {
+    background-color: #ff6b6b;
+    border: none;
+}
+
+/* Navbar brand custom color  */
+.navbar-brand {
+    color: #feca57 !important;
+}
+
+.hero {
+    background-image:  linear-gradient(to right,rgba(0,0,0,0.6),rgba(255,255,255,0)), url('https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');  
+    background-size: cover;
+    background-position: top;
+    height: 85vh;
+}
+
+.abt-img {
+    background-image: url(https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952_960_720.jpg);
+    background-size: cover;
+    height: 50vh;
+    background-position: center;
+}
+
+.subtitle {
+    font-size: 1.2em;
+    letter-spacing: 1.5mm;
+}
+
+.half {
+    max-height: 50vh;
+}
+
+.album {
+    border: 1px solid #c8d6e5;
+    border-radius: 5px;
+}
+
+#map {
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+}
