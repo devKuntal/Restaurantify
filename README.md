@@ -1,2 +1,2 @@
 # Restaurantify
- Restaurant Website
+ A sample restaurant Website designed using Bootstrap css library
